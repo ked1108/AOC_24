@@ -11,7 +11,7 @@ Advent of Code (AoC) is an annual series of programming challenges created by [E
 1. Clone the repository:
    ```bash
    git clone https://github.com/ked1108/AOC_24.git
-   cd advent-of-code-2024
+   cd AOC_24
    ```
 
 2. Navigate to the day's solution directory:
