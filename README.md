@@ -38,12 +38,7 @@ Advent of Code (AoC) is an annual series of programming challenges created by [E
 - **Build System**: Cargo
 - **Testing**: Built-in Rust test framework
 - **Version Control**: Git and GitHub
-
-## 🎯 Goals
-- Write efficient and idiomatic Rust code.
-- Learn and apply new algorithms and Rust features.
-- Solve puzzles while improving problem-solving skills.
-- Document solutions with clear explanations and notes.
+- **Boilerplate Generation**: Custom Script
 
 ## 📅 Progress
 
@@ -56,6 +51,7 @@ Advent of Code (AoC) is an annual series of programming challenges created by [E
 | 5   | ✅      | ✅      |
 | 6   | ✅      | ✅      |
 | 7   | ✅      | ✅      |
+| 8   | ✅      | ✅      |
 | ... | ...    | ...    |
 
 *(Table will be updated as challenges are completed.)*
