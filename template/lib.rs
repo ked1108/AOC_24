@@ -4,18 +4,18 @@ fn parse_input(input: &str) {
 
 pub mod solution {
     pub fn part1(input: &str) -> i32 {
-        0;
+        0
     }
 
     pub fn part2(input: &str) -> i32 {
-        0;
+        0
     }
 }
 
 #[cfg(test)]
 mod tests {
     use super::*;
-
+    const TEST: &str = r#""#;
 
     #[test]
     fn test_part1() {
