@@ -54,6 +54,7 @@ Advent of Code (AoC) is an annual series of programming challenges created by [E
 | 8   | ✅      | ✅      |
 | 9   | ✅      | ✅      |
 | 10   | ✅      | ✅      |
+| 11   | ✅      | ✅      |
 | ... | ...    | ...    |
 
 *(Table will be updated as challenges are completed.)*
